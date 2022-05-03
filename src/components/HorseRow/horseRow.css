@@ -1,0 +1,39 @@
+.row {
+  display: flex;
+  align-items: center;
+  border-left: 30px;
+  justify-content: space-between;
+  font-size: 25px;
+  background-color: #6c757d;
+  border-radius: 20px;
+  margin: 30px;
+  padding-right: 30px;
+  padding-left: 30px;
+}
+
+.buttonWrapper {
+  display: flex;
+  width: 60px;
+  flex-direction: column;
+  padding-left: 150px;
+}
+
+.up {
+  background: green;
+  color: white;
+  cursor: pointer;
+}
+
+.up:hover {
+  background-color: #7db77f;
+}
+
+.down {
+  background: red;
+  color: white;
+  cursor: pointer;
+}
+
+.down:hover {
+  background-color: #fb9472;
+}
