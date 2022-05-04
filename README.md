@@ -4,9 +4,9 @@ Project made with React
 
 In the project directory, you can run:
 
-### `npm start`
+### npm start
 
-### `Steps to run the project locally`
+### Steps to run the project locally
 
 1. run the following command on your terminal :
    git clone https://github.com/jmihelson/horse-betting.git
@@ -17,5 +17,5 @@ In the project directory, you can run:
 3. install node_modules as:
    npm install
 
-4. start the project on localhost:3000-
+4. start the project on localhost: 3000 -
    npm start
